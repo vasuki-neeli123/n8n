@@ -3,9 +3,9 @@
   "version": "1.120.0",
   "private": true,
   "engines": {
-    "node": ">=22.16",
-    "pnpm": ">=10.18.3"
-  },
+  "node": ">=18 <=20",
+  "pnpm": ">=6.16"
+}
   "packageManager": "pnpm@10.18.3",
   "scripts": {
     "prepare": "node scripts/prepare.mjs",
