@@ -5,7 +5,7 @@
   "engines": {
   "node": ">=18 <=20",
   "pnpm": ">=6.16"
-}
+},
   "packageManager": "pnpm@10.18.3",
   "scripts": {
     "prepare": "node scripts/prepare.mjs",
